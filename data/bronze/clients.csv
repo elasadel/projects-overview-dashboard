@@ -1,0 +1,13 @@
+client_id,company_name,industry,country,since_year
+CLI001,Allegro Tech,SaaS,Poland,2020
+CLI002,Brainly,EdTech,Germany,2022
+CLI003,Docplanner,LogTech,Poland,2022
+CLI004,Symmetrical.ai,HealthTech,USA,2022
+CLI005,Packhelp,LogTech,UK,2023
+CLI006,Spacelift,SaaS,Poland,2023
+CLI007,Infermedica,E-commerce,UK,2019
+CLI008,Growbots,E-commerce,Netherlands,2020
+CLI009,Netguru,HealthTech,Poland,2021
+CLI010,Boldare,LogTech,Germany,2023
+CLI011,Monterail,SaaS,UK,2023
+CLI012,FINGO,LogTech,Germany,2020

@@ -1,0 +1,36 @@
+project_id,project_name,client_id,project_type,status,start_date,end_date,contract_value_pln
+PRJ001,ERP Integration,CLI011,Fixed-price,Completed,2024-05-01,2024-09-28,144000
+PRJ002,Mobile App v2,CLI003,Fixed-price,On Hold,2024-02-01,2024-09-28,46000
+PRJ003,Data Migration,CLI001,Fixed-price,Completed,2024-04-01,2025-01-26,43000
+PRJ004,API Redesign,CLI009,Fixed-price,On Hold,2024-07-01,2024-11-28,259000
+PRJ005,Cloud Infrastructure,CLI010,T&M,Completed,2024-03-01,2024-10-27,204000
+PRJ006,Analytics Dashboard,CLI005,Fixed-price,Completed,2024-06-01,2024-08-30,77000
+PRJ007,CRM Implementation,CLI007,Fixed-price,Active,2024-06-01,,52000
+PRJ008,Security Audit,CLI012,T&M,On Hold,2024-02-01,2024-09-28,70000
+PRJ009,Performance Optimization,CLI009,T&M,On Hold,2024-06-01,2024-10-29,65000
+PRJ010,UI Redesign,CLI001,Fixed-price,Active,2024-02-01,,81000
+PRJ011,Payment Gateway,CLI007,T&M,Active,2024-06-01,,219000
+PRJ012,Inventory System,CLI006,Fixed-price,Active,2024-02-01,,155000
+PRJ013,HR Portal,CLI003,T&M,Active,2024-05-01,,142000
+PRJ014,Customer Portal,CLI011,T&M,Completed,2024-04-01,2024-05-31,191000
+PRJ015,Reporting Module,CLI007,T&M,Completed,2024-04-01,2024-10-28,138000
+PRJ016,DevOps Pipeline,CLI011,T&M,Active,2024-08-01,,165000
+PRJ017,ML Pipeline,CLI003,Fixed-price,On Hold,2024-09-01,2025-02-28,249000
+PRJ018,Search Engine,CLI010,T&M,Active,2024-04-01,,290000
+PRJ019,Notification System,CLI008,Fixed-price,Completed,2024-02-01,2024-05-31,111000
+PRJ020,Auth Service,CLI011,T&M,On Hold,2024-02-01,2024-09-28,225000
+PRJ021,Billing Module,CLI010,T&M,On Hold,2025-03-01,2025-12-26,35000
+PRJ022,Document Management,CLI011,Fixed-price,On Hold,2025-03-01,2025-09-27,87000
+PRJ023,Onboarding Flow,CLI005,T&M,Completed,2025-04-01,2025-05-31,164000
+PRJ024,E2E Testing Suite,CLI009,Fixed-price,On Hold,2025-01-01,2025-06-30,289000
+PRJ025,Data Warehouse,CLI010,Fixed-price,Completed,2025-03-01,2025-06-29,30000
+PRJ026,Recommendation Engine,CLI010,T&M,Active,2025-01-01,,215000
+PRJ027,Chat Integration,CLI005,Fixed-price,Completed,2025-02-01,2025-05-02,73000
+PRJ028,Export Module,CLI012,T&M,Completed,2025-05-01,2025-08-29,95000
+PRJ029,Admin Panel,CLI011,T&M,On Hold,2025-02-01,2025-07-31,300000
+PRJ030,Compliance Tool,CLI010,T&M,Completed,2025-05-01,2025-09-28,189000
+PRJ031,Automation Bot,CLI007,T&M,Active,2025-05-01,,91000
+PRJ032,Email Campaign,CLI004,Fixed-price,Completed,2025-03-01,2025-04-30,147000
+PRJ033,PWA Migration,CLI010,Fixed-price,Completed,2025-01-01,2025-03-02,147000
+PRJ034,Legacy Refactor,CLI002,Fixed-price,Active,2025-01-01,,151000
+PRJ035,SSO Implementation,CLI005,T&M,Completed,2025-05-01,2025-08-29,272000

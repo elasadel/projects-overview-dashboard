@@ -1,0 +1,26 @@
+employee_id,first_name,last_name,role,seniority,monthly_cost_pln,start_date
+EMP001,Anna,Kowalski,Developer,Junior,8259,2022-04-01
+EMP002,Piotr,Nowak,QA Engineer,Junior,7254,2020-11-01
+EMP003,Katarzyna,Wiśniewski,DevOps,Junior,9104,2023-01-01
+EMP004,Michał,Wójcik,Developer,Junior,7723,2021-09-01
+EMP005,Agnieszka,Kowalczyk,DevOps,Junior,9074,2021-12-01
+EMP006,Tomasz,Kamiński,Develeper,Mid,11725,2023-10-01
+EMP007,Magdalena,Lewandowski,Project Manager,Junior,8777,2021-12-01
+EMP008,Krzysztof,Zielińska,Designer,Mid,11284,2021-04-01
+EMP009,Joanna,Szymański,Project Manager,Junior,8094,2023-02-01
+EMP010,Marcin,Woźniak,Project Manager,Mid,13618,2022-01-01
+EMP011,Aleksandra,Dąbrowski,Designer,Senior,15627,2023-02-01
+EMP012,Łukasz,Kozłowski,DevOps,Mid,14349,2022-10-01
+EMP013,Monika,Jankowski,QA Engineeer,Senior,11571,2020-11-01
+EMP014,Paweł,Mazur,QA Engineer,Mid,10581,2021-02-01
+EMP015,Natalia,Kwiatkowski,Designer,Mid,11464,2022-03-01
+EMP016,Rafał,Krawczyk,Project Manager,Mid,13214,2022-12-01
+EMP017,Karolina,Piotrowska,Developer,Senior,19150,2021-09-01
+EMP018,Marek,Grabowski,QA Engineer,Junior,6973,2023-05-01
+EMP019,Ewelina,Nowakowski,DevOps,Junior,9201,2022-01-01
+EMP020,Jakub,Pawlak,QA Engineer,Junior,7324,2022-07-01
+EMP021,Sylwia,Michalski,Project Manager,Junior,8216,2022-04-01
+EMP022,Bartosz,Adamczyk,Designer,Mid,11905,2023-03-01
+EMP023,Paulina,Dudek,Project Manager,Junior,8252,2022-12-01
+EMP024,Grzegorz,Zając,DevOps,Mid,14419,2023-06-01
+EMP025,Marta,Wieczorek,QA Engineer,Junior,7021,2023-02-01
